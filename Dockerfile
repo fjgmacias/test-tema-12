@@ -1,4 +1,4 @@
-FROM alpine:3.18.6
+FROM alpine:3.20
 
 ENV BLUEBIRD_WARNINGS=0 \
   NODE_ENV=production \
